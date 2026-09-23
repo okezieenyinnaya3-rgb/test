@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: row; 
+    justify-content: end;
+}
+  .box{
+    height: 30px;
+    width: 30px;
+    background-color: aqua;
+    margin-top: 1em;
+    margin-right: 1em;
+  }
+  
